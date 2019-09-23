@@ -138,12 +138,12 @@ exturl: false
 # External url should start with http:// or https://
 menu:
   home: / || home
-  top: /top/ || signal
+  hot: /hot/ || signal
   about: /about/ || user
   tags: /tags/ || tags
   categories: /categories/ || th
   archives: /archives/ || archive
-  schedule: /schedule/ || calendar
+  #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
 
@@ -684,8 +684,8 @@ rating:
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
   enable: true
-  app_id: 1XpbYtiIUwEcaqQvNqFn1uVo-gzGzoHsz
-  app_key: C84NX1D6McoiHREL7LaHIlyq
+  app_id: o4QxN6nbiMgINL8f7fMM9q22-gzGzoHsz
+  app_key: Q1rChcNWoBbKCLoAMShDheQW
   # Dependencies: https://github.com/theme-next/hexo-leancloud-counter-security
   # If you don't care about security in leancloud counter and just want to use it directly
   # (without hexo-leancloud-counter-security plugin), set `security` to `false`.

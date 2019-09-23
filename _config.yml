@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: xwltz小站
+title: xwltzの技术小站
 subtitle: 个人网站
-description: 人不行，别说路不平。
+description: 一枚煎熬6年.net, java, nodejs开发经验的全栈开发攻城狮兼系统架构狮兼项目经理兼产品汪。
 keywords: 个人,xwltz,网站,博客,技术,分享
 author: xwltz
 language: zh-CN
@@ -94,8 +94,8 @@ symbols_count_time:
 # If leancloud_counter_security not specified (or commented), plugin will totally disabled.
 leancloud_counter_security:
   enable_sync: true
-  app_id: 1XpbYtiIUwEcaqQvNqFn1uVo-gzGzoHsz
-  app_key: C84NX1D6McoiHREL7LaHIlyq
+  app_id: o4QxN6nbiMgINL8f7fMM9q22-gzGzoHsz
+  app_key: Q1rChcNWoBbKCLoAMShDheQW
   username: 61488281@qq.com # Will be asked while deploying if is left blank
   password: xw35413857 # Recommmended to be left blank. Will be asked while deploying if is left blank
 
