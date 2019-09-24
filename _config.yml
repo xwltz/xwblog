@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: next-7.4.0
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -85,10 +85,12 @@ deploy:
 # Post wordcount display settings
 # Dependencies: https://github.com/theme-next/hexo-symbols-count-time
 symbols_count_time:
-  symbols: true
-  time: true
-  total_symbols: true
-  total_time: true
+  symbols: true # 文章字数
+  time: true # 阅读时长
+  total_symbols: true # 所有文章总字数
+  total_time: true # 所有文章阅读中时长
+  exclude_codeblock: false # 是否统计代码块
+  time_minutes: mins.
 
 # Activate this plugin in hexo's _config.yml (which locates in the root dir of your blog) by filling those options:
 # If leancloud_counter_security not specified (or commented), plugin will totally disabled.

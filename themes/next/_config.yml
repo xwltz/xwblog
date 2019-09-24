@@ -66,11 +66,11 @@ footer:
   icon:
     # Icon name in fontawesome, see: https://fontawesome.com/v4.7.0/icons/
     # `heart` is recommended with animation in red (#ff0000).
-    name: heart-o
+    name: heart
     # If you want to animate the icon, set it to true.
     animated: true
     # Change the color of icon, using Hex Code.
-    color: "#808080"
+    color: "#ff0000"
 
   # If not defined, `author` from Hexo main config will be used.
   copyright: xwltz
@@ -304,9 +304,13 @@ post_meta:
 # Dependencies: https://github.com/theme-next/hexo-symbols-count-time
 symbols_count_time:
   separated_meta: true
+  #文章中的显示是否显示文字（本文字数|阅读时长） 
   item_text_post: true
+  #网页底部的显示是否显示文字（站点总字数|站点阅读时长） 
   item_text_total: true
+  # Average Word Length (chars count in word)
   awl: 4
+  # Words Per Minute
   wpm: 275
 
 codeblock:
