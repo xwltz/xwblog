@@ -1,5 +1,5 @@
 ---
-title: .NetCore3.0 DDD驱动设计
+title: ASP.NET Core 3 DDD驱动设计
 comments: true
 passage_end: true
 copyright: true
@@ -7,7 +7,7 @@ date: 2019-09-25 11:53:20
 tags: 
 - .netcore
 - DDD设计
-categories: ASP.NET CORE
+categories: ASP.NET Core 3
 ---
 
 #### 基础设施层
